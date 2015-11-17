@@ -1,14 +1,13 @@
 @font-face {
 	font-family: 'PT Sans';
-	src: url("../Fonts/PTC55F.eot");
+	src: url(../Fonts/PTC55F.eot);
 }
 
 @font-face {
     font-family: "PT Sans";
-    src: url("../Fonts/PTC75F.eot");
+    src: url(../Fonts/PTC75F.eot);
     font-weight: bold;
 }
-
 ::selection {
   background: #F9FEFF; /* WebKit/Blink Browsers */
 }
