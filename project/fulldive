@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/fulldive.css">
+	<title>Ji-hern Baek - FullDive</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">FullDive</div>
+		<div class = "text">Interns: Ji-hern Baek / <a class = "link" href = "http://www.itsnickki.com/" target = "_blank">Nickki Nguyen</a></div>
+		<div class = "text">This past summer, I had the opportunity of working at a virtual reality startup called <a href = "http://fulldive.com/" class = "link" target = "_blank">FullDive<a/>, a company dedicated to making the VR experience accessible. My internship went for about 3 months during which I worked on user research and extensive UX design. My projects specifically included conducting usability tests on the existing mobile application, designing the mobile login/sign up screen, redesigning the mobile home screen, and conceptualizing a 360 photo social media platform.
+		</div><br>
+
+		<div class = "title">User Testing</div>
+		<div class = "text">
+			Upon entering the company, one of the first projects I was tasked with was user testing on the existing Android mobile application. I was provided a company phone and a Google cardboard viewer (as the FullDive headset was going through its final rounds of designs). The original application looked like the following: 
+			<br><br>
+			<img class = "photo" src = "../Images/fulldive1.png">
+			<br><br>
+			My initial thought when looking at the application was that it didn't look out of place. It conveyed a theatre-like, spanning view, which worked well. However, I started noticing usability issues when I paired the phone with my viewer. As such, I ran a heuristic evaluation to consolidate what pain points existed. 
+			<ol><i>
+				<li>Aesthetic and minamalist Design - Severity 1: Only the initial view has a changing
+				background</li>
+				<li>User Control and freedom - Severity 3: some of the feature views have no 'return' options</li>
+				<li>Consistency and standards - Severity 2: The standard for metaphors are not conventional</li>
+				<li>Visibility of System status - Severity 3: To navigate and
+				know the status of which icon the user is able to tap is unintuitive and ambiguous</li>
+			</i></ol>
+			From these findings, I constructed a usability test. Though much of the findings are under an NDA, I am able to disclose my initial studies:
+			<ol><i>
+				<li>Navigation proved difficult due to the lack of icon status</li>
+				<li>The angle of selection was too narrow</li>
+				<li>the tacticle response when no actions were made was confusing</li>
+			</i></ol><br>
+			<a href = "https://app.box.com/s/c2irolsnr3gg2m9zh69eb9c8pgidblvu" class = "go-back" target = "_blank">See Initial Studies</a>			
+		</div><br><br>
+
+		<div class = "title">Login/Sign Up Design</div>
+		<div class = "text">
+			The second project I was given was to design login/signup screens. This was an important feature to implement, as we had more users on our application and as we were preparing for a crowdfunding campaign. For this specific assignment, I began working in <a class = "link" href ="https://www.sketchapp.com/" target = "_blank">Sketch</a> for the first time. I took a good amount of my summer learning how to use sketch properly (and I love it), and developing different iterations of the login/signup flow. My final design stuck to the brand image and flattened the ethereal ambiance that is heavily associated with VR.
+			<br><br>
+			<img class = "photo1" src = "../Images/fulldive2.png">
+			<img class = "photo1" src = "../Images/fulldive3.png">
+			<img class = "photo1" src = "../Images/fulldive4.png">
+			<img class = "photo1" src = "../Images/fulldive5.png">
+			<img class = "photo1" src = "../Images/fulldive6.png">
+			<img class = "photo1" src = "../Images/fulldive7.png">
+			<br><br>
+			One of the major issues I had working with this particular assignment was the architecture. Though it was a simple flow, I had to scrap a number of iterations because they were difficult and untuitive to navigate through.
+		</div><br>		
+
+		<div class = "title">Homescreen Design</div>
+		<div class = "text">
+			While I was designing the login/sign up pages, Nickki and I were simultaneously asked to revamp the existing home screen. Though the login/sign up views would necessitate another style change on the home screen, our supervisor wanted to ensure that we also focused on users who were currently utilizing our app. Accordingly, we conceptualized a design that was fully immersive. As with the login/sign up views, we decided to go with an ethereal background. And as the original screen was merely a black panel, we wanted to heigten the user's depth perception by having a background that was changing all the way up.<br><br>
+			<img class = "photo" src = "../Images/fulldive8.png">
+			<br><br>
+			With that in mind, we kept the existing navigational design, where the user would shift their head left/right to course through the different icons. To that extent, the previous iteration had a terrible status update as users panneled through the different icons. As such, I set out to reconstruct the icons' overall look to match the background visual and created a mechanism that better highlighted them as users scrolled through.
+			<br><br>
+
+		<div class = "title">360 Photo Share</div>
+		<div class = "text">
+			One of the final projects I worked on during my internship was to conceptualize and wireframe a 360 photo sharing application. With the design team, we began discussing about how our application would work and how it would integrate into the existing app. My own personal contributions involved wireframing and mocking up the share feature, which works as a private photo/comment messenger.
+			<br><br>
+			<img class = "photo" src = "../Images/fulldive9.jpg">
+			<br><br>
+			Some of the considerations I had to make include the following:
+			<ol><i>
+				<li>Flow to send a message to a friend, or find a specific user</li>
+				<li>Flow to upload a photo onto the message and send it</li>
+				<li>Text inclusion</li>
+				<li>Message/history display</li>
+			</i></ol>
+			The design team, then, consolidated our ideas and began working on mockups. Mine were as follows:
+			<img class = "photo" src = "../Images/fulldive10.png"><br><br>
+			<a href = "http://portby.com" class = "go-back" target = "_blank">See Current App</a>
+			<br><br>
+		</div><br>		
+
+		<div class = "title">Takeaway</div>
+		<div class = "text">
+			And that concluded my internship! It was certainly an interesting experience, gleaning into the world of virtual reality, which of course necessitated a different kind of design than traditional mobile design. I am incredibly greatful for the experience and happy to say that I've gone on to do a variety of different projects with my fellow co-workers!
+		</div><br><br>
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>				
+	</div>
+</body>
+</html>

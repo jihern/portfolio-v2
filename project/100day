@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/100day.css">
+	<title>Ji-hern Baek - 100 Day</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">#the100dayproject</div>
+		<div class = "text">
+			In an effort to improve my visual design skills, I decided to try my hand at #the100dayproject, an online campaign that encourages folks to dedicate themselves to a craft for one hundred days. Currently, I am still working towards my 100th day! You can check out my progress <a target = "_blank" class = "link" href="https://instagram.com/jbaek100/">here</a>.
+		</div>
+
+		<div id="picture-row">
+			<img class ="pictures" src="../Images/100 Face.png">
+			<img class ="pictures" src="../Images/100 Grave.png">
+			<img class ="pictures" src="../Images/100 Rocket.png">
+			<img class ="pictures" src="../Images/100 STEM.png">
+			<img class ="pictures" src="../Images/100 Mountains.png">
+			<br>
+			<img class ="pictures" src="../Images/100 Window.png">
+			<img class ="pictures" src="../Images/100 Mosaic.png">
+			<img class ="pictures" src="../Images/100 Creeping.png">			
+			<img class ="pictures" src="../Images/100 Exhausted.png">
+			<img class ="pictures" src="../Images/100 Kitchen.png">			
+		</div>
+		<br>
+		<a href = "https://instagram.com/jbaek100/" target = "_blank" class = "go-back">See The Rest</a><br><br><br>
+
+		<div class = "title">Process</div>
+		<div class = "text">Admittedly, my other responsibilities (school , extracurriculars, work and recruiting) do not allow me to spend much time on each illustration. However, as I am eager to improve, I try to allocate an hour for both the brainstorming and designing processes. I'll typically spend the initial time thinking of a theme; or if a theme has already been decided upon, I'll try to think of a design that could fall under that theme. If time permits, I'll begin sketching things down on my notebook. I'll go through a few quick iterations before I move on to Illustrator. From there, I'll either trace out my iteration (if it's good enough), or I'll simply reference my sketches.</div><br>
+		<img class ="process" src="../Images/100 Process1.png">
+		<div class = "text"><i>If I trace any sketches, as I did in this particular example, I'll spend lots of time adjusting paths.</i></div><br>
+		<img class ="process" src="../Images/100 Process2.png"><div class = "text"><i>In this example, I spent time shortening the head; extending the arm length and modifying the look of the sweater; adjusting the legs and feet; and redirectioning the cat.</i></div><br>
+		<img class ="process" src="../Images/100 Process3.png"><div class = "text"><i>After that, I made an artistic decision to adjust the brush strokes. This was done to follow a design decision I had made earlier so as to create the proper feel. The free form brush strokes manifest a very human visual and emotion - imperfect standalone yet complete together.</i></div><br>
+		<img class ="process" src="../Images/100 Process4.png"><div class = "text"><i>That leads to the final product. Each design, of course, varies in terms of process; but as an invariant, I learn a new skill with each design.</i></div>
+		<br><br>
+
+		<div class = "title">Takeaway</div>
+		<div class = "text">
+			<i>Though I still have a ways to go until I finish, here are some things that I've learned</i>:
+			<ol><li>If you can, spend an hour thinking and planning out what you want to create. It takes a lot of thought to create illustrations directly from your imagination, and drawing first helps.</li><br>
+			<li>On the flip side, if you don't have time, don't panic. Putting time constraints on yourself can also be beneficial. A good friend of mine once told me that one's best, most creative work comes when they are most constrained.</li><br>
+			<li>I use reference images way too much, and I'm beginning to understand the difference between an expert designer from an amateur designer: the ability to imagine details and draw them from your and others' experiences.</li><br>
+			<li>Do this with a friend! I have the pleasure of embarking on the journey that is the #100dayproject with my good friend, Wendy Xue. It makes it easier to hold yourself accountable and provides a channel to receive honest, critical feedback. Check out Wendy's work <a class = "link" target="_blank" href="https://www.instagram.com/wxue100">here</a>.</li></ol>
+		</div>
+		<br><br>
+
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>
+	</div>
+</body>
+</html>

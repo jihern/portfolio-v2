@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/pinterview.css">
+	<title>Ji-hern Baek - PINterview</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">PINterview</div>
+		<div class = "text">Team: Ji-hern Baek / <a class = "link" href = "http://www.spenceraxelrod.com/" target = "_blank" target = "_blank">Spencer Axelrod</a> / <a href = "https://www.linkedin.com/in/william-choulos-6b1587107" class = "link" target = "_blank">William Choulos</a> / <a class = "link" href = "https://www.linkedin.com/in/ki-ey-kouch-175209104" target = "_blanK">Ki-Ey Kouch</a> / <a class = "link" href = "https://www.linkedin.com/in/chenjiayuan" target = "_blank">Jiayuan Chen</a></div>
+		<div class = "text">
+			This semester, I am enrolled in <a class = "link" href = "https://sites.google.com/site/ucbcs169fa15/info" target = "_blank">Computer Science 169: Software Engineering</a>, a course dedicated to teaching students how to build large software systems. As of now, my team and I have been working for about 2 months developing a web platform for Berkeley students to share and find information regarding past interview experiences. Our identifying feature resides with the pinboard visualization, modeled after Pinterest's dashboard view. My contributions, up to this point, have involved design work and front end implementation.
+		</div><br>
+
+		<div class = "title">Project</div>
+		<div class = "text">
+			A number of student proposals were selected at the beginning of the semester, at which point students submitted their project preferences. I was placed under PINterview, as I figured it would be a good exercise for a designer. My team and I met extensively to determine our framework and backend architecture. Specifically, we have been using Ruby on Rails to develop our platform. The front end design and implementation has been determined heavily by Will and myself.<br><br>
+			<a href = "http://pinterview.herokuapp.com/login" class = "go-back" target ="_blank">See Our Current Site</a>			
+		</div><br><br>
+
+		<div class = "title">Wireframes</div>
+		<div class = "text">
+			Because each project check-in extends only two weeks, we have to move fast. We work agilely and replicate much of the same development principles found within the tech industry. Accordingly, I was tasked with drawing out a quick wireframe and setting that directly into visual mockups.<br><br>
+			<img class = "photo" src = "../Images/pinterview1.png"><br>
+			The flow begins on the splash page, through which users can log in and sign up. Upon completing signup, users will be taken to the dashboard of interview pins. They can click on the various pins to see more information regarding the specific interview. They can also revert back to the dashboard. Finally, there is the user page, through which users are able to adjust their profile settings and see pins that they've posted and liked. As an additional feature, we are hoping to create a company page that shows a visualization of data pertinent to their interviews. <b>Check back again soon to see more of our project!</b>
+		</div><br><br>
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>			
+	</div>
+</body>
+</html>

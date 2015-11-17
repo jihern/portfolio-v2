@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/pivot.css">
+	<title>Ji-hern Baek - Pivot</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">Pivot</div>
+		<div class = "text">Team: Ji-hern Baek / <a class = "link" href = "http://www.itsnickki.com/" target = "_blank">Nickki Nguyen</a> / <a class = "link" href = "http://gabrianna.us/" target = "_blank">Gabi Dumaguin</a> / <a class = "link" target = "_blank" href = "https://www.linkedin.com/in/kylon-chiang-6049028a">Kylon Chiang</a></div>
+		<div class = "text">
+			This semester, I have the privilege of being a part of <a class = "link" href = "http://innovation.berkeley.edu/" target = "_blank">Berkeley Innovation</a> (BI), one of Cal's human-centered design orgs. Through BI, I was placed into a team of four and assigned to work with software design company <a class = "link" href = "https://www.vertigo.com/">Vertigo</a> (recently acquired by <a class = "link" href = "http://www.mlbam.com/">MLBAM</a>). We were, then, tasked with developing a version control platform for designers, through which users could organize projects and collaborate on design files. My contributions include conducting competitor analysis, providing insight with respect to ideation, and working on the dashboard and project views (through all fidelity mockups). <b>Currently, we are still working to finish our final product - check back again later for more updates!</b>
+		</div><br>
+
+		<div class = "title">Research + Sketches</div>
+		<div class = "text">
+			My team and I began our ideation phase by completing research. Nickki was tasked with familiarizing herself with Github, Gabi conducted design interviews, Kylon conducted Github interviews, and I worked on competitive analysis. From my research, we learned that, while each offered features beneficial for design collaboration, no competitor actually had a fully-developed implementation of Vertigo's software idea. To that extent, Pixelapse was the closest to our idea, but we wanted to incorporate an in-app merge conflict feature.<br><br>
+			<a href = "https://docs.google.com/document/d/1IBlW6xGY_MrWwEbubNg6A1s9qN-dPYmsa9dChQjL7B4/edit?usp=sharing" class = "go-back" target = "_blank">See Full Report</a>	
+			<br><br>
+			At that point, we necessitated the following functions to create minimum viable product:
+			<ol><i>
+				<li>Project/file uploads</li>
+				<li>Timeline view for each file</li>
+				<li>Merge conflict resolutions</li>
+				<li>Comment + notifications</li>
+			</i></ol>
+			Simultaneously, we began sketching to better understand the above functions.<br><br>
+			<img class = "photo" src = "../Images/pivot1.JPG">
+			<img class = "photo" src = "../Images/pivot2.JPG">
+		</div><br>
+
+		<div class = "title">Lo-Fi Prototype</div>
+		<div class = "text">
+			Next, we completed our lo-fi prototypes on Balsamiq. I worked specifically on laying out and connecting the newsfeed view (the very first view that you start on), as well as the projects view (both in tile and list view). The biggest takeaway from this particular part of our project was deciding placement and creating an intuitive visual. Because there were no actual stylings, each element's functionality was highlighted extensively.<br><br>
+			<img class = "photo1" src = "../Images/pivot3.png"><br><br>
+			<a href = "https://mlbam.mybalsamiq.com/projects/vertigo/prototype/Dashboard%20-%20Feed?key=3a354c68f93785fe4f5561f08eef0fe8ddb582b1" class = "go-back" target = "_blank">See Balasmiq Prototype</a>	
+		</div><br><br>		
+
+		<div class = "title">Mid-Fi Mockups</div>
+		<div class = "text">
+			The next step for our team was to develop mid-fi prototypes. Accordingly, we started sharpening the elements from Balsamiq onto Illustrator. We developed the views similarly and received feedback from our supervisor. We went through several iterations over the course of three weeks. Again, I worked specifically on the newsfeed view, the project views, and the 'add project' functionality. Some of the changes I had to make through each iteration involved reconfiguring the layout in such a way that certain call-to-action elements stood out and were intuitive for users.<br><br>
+			<img class = "photo2" src = "../Images/pivot4.png">
+			<img class = "photo2" src = "../Images/pivot5.png">
+			<img class = "photo2" src = "../Images/pivot6.png">
+			<img class = "photo2" src = "../Images/pivot7.png">
+			<br><br>
+			At this point, we were asked to come into Vertigo and give a presentation on our mid-fi mockups.
+			<br><br>
+			<a href = "https://docs.google.com/presentation/d/1roGK_gO6v2usrUNm-WbFRq6jfCfWPFBgtHx7ntoNZ20/edit?usp=sharing" class = "go-back" target = "_blank">See Our Presentation</a><br><br>
+			We received another round of input, and were told to make the following considerations:
+ 			<ol><i>
+				<li>User onboarding</li>
+				<li>Team collaboration/project collaboration</li>
+				<li>Profile Pages</li>
+				<li>Reverted commits</li>
+				<li>Merge resolution options</li>
+			</i></ol>
+			From the feedback, I went back and created a mockup to accomodate for team collaboration.<br><br>
+			<img class = "photo2" src = "../Images/pivot9.png">
+			<br><br>
+			We still have a few more weeks to work on this project, but our next steps involve additional user testing, high-fidelity mockups, and an interactive prototype. Check back to see the rest of our project!
+		</div><br><br>
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>						
+	</div>
+</body>
+</html>

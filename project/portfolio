@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/portfolio.css">
+	<title>Ji-hern Baek - Portfolio</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">Personal Portfolio</div>
+		<div class = "text">I wanted to create an online, personal portfolio that showcased my projects. The initial iteration of my portfolio totalled approximately two weeks; the second iteration took about a week. I designed and coded the entire website.</div><br>
+
+		<div class = "title">Ideation</div>
+		<div class = "text">
+			For my portfolio, I wanted to clearly convey my passion for UX design; showcase an interdisplinary set of skills; and prove that said skills were strong and showed further potential. Accordingly, I believed that the best way to accomplish the above was to implement a portfolio design that, in and of itself, was sleek in design, clearly depicted my projects, and was simple yet maintained individual character.<br><br>Before I began designing, I looked into other designers' portfolios to garner inspiration. Through this, I learned of the importance of keeping my portfolio clean, providing well-written case studies accompanied by design process visuals, and higlighting my interdisciplinary skills and experiences.<br><br>
+			<img class = "photo" src = "../Images/website1.png">
+		</div><br><br>
+
+		<div class = "title">First Iteration</div>
+		<div class = "text">
+			My initial iteration attempted to minimize design elements and create a modern look. I selected two symmetrical fonts, a <font color="#AAD0BE">green</font> hue for emphasis, and a direct, place-and-show format for my projects. Accordingly, I drafted mid-fi mockups, which took up only about a day of the total time, on Sketch.
+			<br><br>
+			<img class = "photo1" src = "../Images/website2.png">
+			<img class = "photo1" src = "../Images/website3.png">
+			<img class = "photo1" src = "../Images/website4.png">
+			<img class = "photo1" src = "../Images/website5.png">
+			<img class = "photo1" src = "../Images/website6.png">
+			<img class = "photo1" src = "../Images/website7.png">
+			<br><br>
+			I took a bit over a week to implement everything in HTML, CSS, and JavaScript. Admittedly, upon completion of this iteration, I wasn't happy with the final product. The overall look was plain and underwhelming, and my projects were poorly explained. I decided I needed to rethink how I wanted my portfolio to look.
+			<br><br>
+			<a href = "https://github.com/jihern/portfolio-v1" target = "_blank" class = "go-back">See V1 Git</a><br><br>
+		</div><br>				
+
+		<div class = "title">Second Iteration</div>
+		<div class = "text">
+			For my second iteration, I decided I wanted my portfolio to maintain the traits I had decided upon during ideation. However, I also wanted to better showcase myself - who I am, what I've done, and what I hope to achieve. As such, I redesigned each of the pages, simplified the amount of items in the navigation, changed the color to better accomodate the artistic direction, and spent more time on each of my case studies. Though I can always make my portfolio better, I am certainly much prouder of and happier with this iteration.
+			<br><br>
+			<img class = "photo2" src = "../Images/website8.png">
+			<img class = "photo2" src = "../Images/website9.png">
+			<img class = "photo2" src = "../Images/website10.png">
+			<img class = "photo2" src = "../Images/website11.png">
+			<br><br>			
+			The programming for this iteration went by much quicker, as I was more experienced and could recycle some of the code. I spent a heavy amount of time determining artistic direction and writing out my case studies.
+			<br><br>
+			<a class = "go-back">V2 Git Coming Soon</a>
+			<br><br>
+		</div><br>
+
+		<div class = "title">Takeaway</div>
+		<div class = "text">
+			While building my portfolio, I learned quite a number of things. First, manifesting a concept into reality is very interesting and also very difficult. Things don't always turn out the way you want to, and that's certainly okay. With that in mind, make sure you pace yourself so that you don't burn out when you go back to the drawing board. Second, put thought into how you want to organize your HTML, CSS, and JS files, as well as your other resources. There a lot of small details that will really impact your portfolio i.e. confusing CSS selectors, file extensions in the URL, etc. 
+		</div><br><br>
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>
+	</div>
+</body>
+</html>

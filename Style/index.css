@@ -1,0 +1,92 @@
+@font-face {
+	font-family: 'PT Sans';
+	src: url("../Fonts/PTC55F.eot");
+}
+
+@font-face {
+    font-family: "PT Sans";
+    src: url("../Fonts/PTC75F.eot");
+    font-weight: bold;
+}
+
+::selection {
+  background: #F9FEFF; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #F9FEFF; /* Gecko Browsers */
+}
+
+
+/* --- index.html --- */
+body.home{
+	margin: 0px;
+	background-image: url("../Images/home.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#home-page{
+	position: relative;
+	width: 500px;
+	margin-left: 15%;
+	margin-top: 180px;
+}
+
+#name{
+	font-family: 'PT Sans';
+	font-size: 75px;
+	font-weight: bold;
+	color: #7C7C7C;
+	text-align: center;
+	margin-right: 0;
+}
+
+#navigation{
+	width: 500px;
+	margin-top: -2%;
+	text-align: center;
+}
+
+#description{
+	font-family: 'PT Sans';
+	color: #7C7C7C;
+	text-align: center;
+}
+
+#navigation ul{
+	margin: 0 auto;
+	margin-top: 3%;	
+	float: left;
+	display: inline-block;
+    list-style-type: none;	
+}
+
+#navigation li {
+	display: inline;
+	font-family: 'PT Sans';
+	font-size: 18px;
+}
+
+#navigation #home{
+	color: #EE888D;
+}
+
+#about{
+	text-align: center;
+}
+
+#navigation a{
+	display: inline-block;	
+	text-decoration: none; 
+	color: #7C7C7C;
+	border:2px solid transparent;		
+}
+
+#navigation a:hover{
+	color: #EE888D;
+	border-bottom: solid 2px #EE888D;	
+    -webkit-transition: .5s;
+	
+}

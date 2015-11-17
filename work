@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "Style/work.css">
+	<title>Ji-hern Baek - Work</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "project-wrapper">
+		<a href="project/pivot"><img class = "project-image" src="Images/pivot.png"></a>
+		<a href="project/smartshelf"><img class = "project-image" src="Images/smartshelf.png"></a>
+		<a href="project/pinterview"><img class = "project-image" src="Images/pinterview.png"></a>			
+		<a href="project/cafehop"><img class = "project-image" src="Images/cafehop.png"></a>
+		<a href="project/sierra"><img class = "project-image" src="Images/sierra.png"></a>		
+		<a href="project/100day"><img class = "project-image" src="Images/100day.png"></a>	
+		<a href="project/fulldive"><img class = "project-image" src="Images/fulldive.png"></a>
+		<a href="project/portfolio"><img class = "project-image" src="Images/website.png"></a>		
+		<a href=""><img class = "project-image" src=""></a>
+	</div>
+</body>
+</html>
+

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "../Style/sierra.css">
+	<title>Ji-hern Baek - Sierra Nevada</title>
+</head>
+<body = >
+	<div id = "navigation">
+		<li><a href="../index.html" id = "home">H O M E</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../about" id = "about">A B O U T</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+		<li><a href="../work" id = "work">W O R K</a></li>
+	</div>
+
+	<div id = "body-wrapper">
+		<div id = "header">Sierra Nevada Marketing Campaign</div>
+		<div class = "text">Team: Ji-hern Baek / <a class = "link" href = "http://www.itsnickki.com/" target = "_blank">Nickki Nguyen</a> / <a class = "link" href = "http://www.wendyxue.com/" target = "_blank">Wendy Xue</a></div>
+		<div class = "text">On November 7th, 2015, I participated in <a class = "link" href = "http://cmyk.innovativedesign.club" target = "_blank">CMYK</a>, an annual designathon hosted by <a class = "link" href = "http://innovativedesign.club/" target = "_blank">Innovative Design</a> (I'm also on the Web Development Tier)! My group and I worked for about 4 hours to develop a marketing campaign on behalf of this year's client, <a class = "link" href = "http://www.sierranevada.com/" target = "_blank">Sierra Nevada</a> - the campaign targeting the Baby Boomer generation (60+). My specific contributions included introducing the initial concept, further developing it into a visual idea, giving input with the physical designs, and designing the final drink cards.</div><br>
+
+		<div class = "title">Prompt</div>
+		<div class = "text">
+			We were asked to choose from three prompts. We decided on the following: <ol><i>Studies have shown that as baby boomers enter their old age, there is a growing demand for Sierra Nevada's products from the elderly population (60+). While the products will remain the same, your team is commissioned to produce a new branding campaign that best targets and caters to the needs and wants of this demographic.</i></ol><br>
+			<a href = "https://drive.google.com/file/d/0BzSmp8ED4L9tZDJuVFlZbFlMTlU/view?pli=1" class = "go-back" target ="_blank">See Full Brief</a>
+		</div><br><br>
+
+		<div class = "title">Brainstorm + Research</div>
+		<div class = "text">
+			Upon deciding this prompt, we began to think of associations with the Baby Boomer generation. We started writing words that came to mind that we thought were relevant (though we realized later after completing research that some of our associations were misguided).
+			<br><br>
+			<img id = "brainstorm1" src = "../Images/sierra brainstorm1.jpg">
+			<br><br>
+			From this, my group picked a trend that emerged from the words: great accomplishments or characteristics of the generation. We realized that our marketing campaign could relate back to the history of the generation. At this point, we began doing research about the generation to supplement our idea. From said research, we learned that the generation valued individual choice, community involvement, prosperity, ownership, and self-actualization. Again, we could connect this back to the history, which led us to look into the Baby Boomer timeline. We selected the following historical events: <ol><i><li>The Vietnam War, which connected to community wide protests</li><li>The Beatles, which connceted to the generation's pride and ownership over their music</li><li>I Love Lucy, which connected to the generation's propserity through of humor</li><li>The Hippie Movement, which connected to the generation's journey towards self-actualization</li></i></ol><br>
+			<img id = "brainstorm1" src = "../Images/sierra brainstorm2.jpg">
+			<br><br>
+		</div>
+
+		<div class = "title">Design Process</div>
+		<div class = "text">
+			The design process began as soon as we had selected our events - Nickki volunteered to edit the stock photos that represented our selections. Our idea, initially, was intended to work as a story. As depicted in the picture above, we wanted to go through the history, celebrate and honor the struggles and accomplishments, and then metaphorically relieve the duties of the older generation ("...now enjoy a good beer"). Our first iteration was as follows:<br><br>
+			<img id = "brainstorm2" src = "../Images/sierra campaign1.png">
+			<img id = "brainstorm2" src = "../Images/sierra campaign2.png">
+			<img id = "brainstorm2" src = "../Images/sierra campaign3.png">
+			<img id = "brainstorm2" src = "../Images/sierra campaign4.png">
+			<img id = "brainstorm2" src = "../Images/sierra campaign5.png"><br><br>
+			We received feedback on this design from the judges and were told that we created a divide between the older generation and Sierra Nevada. We were also told that we failed to think about the medium through which this campaign would be held and how we could, then, connect each photo back to the brand.<br><br>At this point, we didn't have much time left. But we decided to think about how we could change what we had into a solid campaign. We decided that each photo had to be paired with the punchline, in order to be more versatile with respect to the marketing medium. Additionally, we decided that we could connect the brand AND unify Sierra Nevada with the Baby Boomer generation by encouraging celebration of history with a novelty beer by Sierra Nevada. We came up with the following iterations:
+			<br><br>
+			<img id = "brainstorm2" src = "../Images/sierra campaign6.jpg">
+			<img id = "brainstorm2" src = "../Images/sierra campaign7.jpg"><br>
+			<img id = "brainstorm2" src = "../Images/sierra campaign8.jpg">
+			<img id = "brainstorm2" src = "../Images/sierra campaign9.jpg">			
+			<img id = "brainstorm3" src = "../Images/sierra campaign10.jpg">
+			<br><br>
+			To supplement our campaign, I created drink cards as our second visual. This particular design was to aid the experience once we were able to attract customers to Sierra Nevada's brewery location called <a class = "link" href ="http://www.sierranevada.com/brewery/california/torpedoroom" target = "_blank">The Torpedo Room</a>. We were told that older customers preferred information in their hand, as opposed to on their phone, when at the brewery. We decided to heighten the in-person experience visually by providing concise facts about drinks and a neat novelty card to take home afterwards.<br><br>
+			<img id = "brainstorm3" src = "../Images/sierra campaign11.jpg">
+		</div><br><br>
+
+		<div class = "title">Takeaway + Disclaimer</div>
+		<div class = "text">
+			That concluded our 4 hour designathon experience. We experienced the highs and lows of brainstorming, researching, designing, and redesigning. In the end, we were proud of our work, as it was heartfelt and genuine. We even managed to take home "Best Use of Photography"; and I certainly couldn't have asked for a better team.<br><br>With that in mind, I felt it was important to include a short disclaimer regarding our campaign. My team was cognizant that some of the events we selected were controversial, as they were heavily impacted by western/white-centric policies. Naturally, we are not in agreement with much of the additional burden that was placed on already marginalized communities during that time. We do believe in celebrating and honoring the Baby Boomer and our nation's history with the acknowledgment that many events that occurred whilst were, in fact, dishonorable. We hope that that sentiment is accepted by recipients of our project.<br><br>
+			<img id = "brainstorm3" src = "../Images/sierra campaign14.jpg">			
+			<img id = "brainstorm3" src = "../Images/sierra campaign13.jpg">
+			<img id = "brainstorm3" src = "../Images/sierra campaign12.jpg">			
+		</div><br><br>
+		<a href = "../work" class = "go-back">See Other Projects</a><br><br><br><br>		
+	</div>
+</body>
+</html>
